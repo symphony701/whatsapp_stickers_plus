@@ -187,3 +187,4 @@ public class WhatsappStickersPlugin: FlutterPlugin, MethodCallHandler, ActivityA
     return true
   }
 }
+
